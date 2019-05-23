@@ -4,7 +4,7 @@
 
 `kata-rambang` ialah JS program yang sama dengan [`random-words`] (https://www.npmjs.com/package/random-words)
 
-Bezanya ialah `kata-rambang` menjana perkataan Bahasa Melayu yang biasa & tidak biasa, bukannya perkataan Inggeris.
+Bezanya ialah `kata-rambang` jana perkataan Bahasa Melayu bukannya perkataan Inggeris.
 
 `kata-rambang` is a JS program that generates common & uncommon Malay words, randomly.
 
