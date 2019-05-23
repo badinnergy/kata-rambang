@@ -1,7 +1,7 @@
 var assert = require('assert');
 var randomWords = require('../index.js');
 
-describe('random-words', function () {
+describe('kata-rambang', function () {
     it('should return one word when called with no arguments', function () {
         var word = randomWords();
         assert.ok(typeof(word) === 'string', 'word is a string');
