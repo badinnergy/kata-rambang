@@ -1,14 +1,14 @@
 {
-  "name": "random-words",
+  "name": "kata-rambang",
   "version": "1.1.0",
-  "description": "Generate one or more common English words",
+  "description": "Untuk jana perkataan Melayu. Generate one or more Malay words.",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:punkave/random-words.git"
+    "url": "git@github.com:badinnergy/kata-rambang.git"
   },
   "keywords": [
     "random",
@@ -19,6 +19,6 @@
     "sample",
     "text"
   ],
-  "author": "Thomas Boutell",
+  "author": "Irfan Zainudin",
   "license": "MIT"
 }
